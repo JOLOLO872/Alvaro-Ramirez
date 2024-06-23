@@ -1,0 +1,18 @@
+.full-height {
+    height: 100vh;
+}
+
+.centered-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Estilos adicionales para el formulario */
+.form-container {
+    max-width: 400px; /* Ancho máximo del formulario */
+    padding: 20px; /* Espaciado interior */
+    background-color: #fff; /* Fondo blanco */
+    border-radius: 8px; /* Bordes redondeados */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra ligera */
+}
